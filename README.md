@@ -3,7 +3,7 @@
 This is a python tool.  
 > using f"xxx" feature which is public in python@3.6.x. so please use a python at version higher than 3.6.0.  
 
-> I recommand 3.7.9(@2020/12/16)
+> I recommend 3.7.9(@2020/12/16)
 
 ~~~shell
 python3 bin2v.py -b sim.bin -o RAM.v -addr_width 32 -data_width 8
